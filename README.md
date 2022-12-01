@@ -27,4 +27,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 ## API
-Puedes obtener el api key de GIFS, en esta ruta [Giphy]https://giphy.com/
+Puedes obtener el api key de GIFS, en esta ruta [Giphy](https://giphy.com/)
+
+<p> <img src="https://github.com/idmc30/gifsapp/blob/master/gifApp.gif" alt="gif"></p>
